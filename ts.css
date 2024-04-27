@@ -1,5 +1,23 @@
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
 
+label {
+  color: #fff;
+  display: inline-block;
+  background-color: rgb(232, 48, 21);
+  position: absolute;
+  bottom: 0;
+  right: 20px;
+  transform: translateY(100%);
+  border-radius: 0 0 6px 6px;
+  cursor: pointer;
+}
+#navbarToggle:checked~.main-header .material-icons {
+  transform: rotate(180deg);
+}
+.material-icons {
+  transform: rotate(0);
+  transition: .6s;
+}
 .newbtn{
     cursor: pointer;
     border:0 ;
