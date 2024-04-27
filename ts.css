@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+.newbtn{
+    cursor: pointer;
+    border:0 ;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-image: url(https://i.imgur.com/Tab0JhQ.png);
+    background-size: cover;
+}
+.newbtn2{
+    cursor: pointer;
+    border:0 ;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-image: url(https://i.imgur.com/0X9YDqW.png);
+    background-size: cover;
+}
