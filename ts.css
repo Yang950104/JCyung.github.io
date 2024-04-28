@@ -175,10 +175,6 @@ img {
             transform: translateY(-6px) rotate(-1.2deg);
   }
 }
-.main-footer {
-  padding: 25px 0;
-  background-color: #488286;
-}
 
 .container {
   width: 1200px;
@@ -186,10 +182,6 @@ img {
   display: flex;
 }
 
-.item {
-  width: 270px;
-  margin: 0 15px;
-}
 
 .item h3 {
   color: #fff;
