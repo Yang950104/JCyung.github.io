@@ -235,7 +235,10 @@ img {
   background-color: #0a090c;
   cursor: pointer;
 }
-
+.main-footer {
+  padding: 25px 0;
+  background-color: #488286;
+}
 .copyright {
   background-color: #0a090c;
   padding: 5px 0;
