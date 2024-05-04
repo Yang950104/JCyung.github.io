@@ -3,7 +3,7 @@
 ###### tags: `Python` `html`
 
 ## 1.web網站
->連結:[按我](yang950104.github.io/worldflipper.html)
+>連結:[按我](/worldflipper.html)
 
 ### 高一時候跟同學一起學的web，內容是巴哈上的遊戲攻略，相當陽春，又花了兩天加了一些css讓他看起來不要那麼無聊
 
